@@ -16,3 +16,89 @@
     padding: 20px;
     background: lightgrey;
 }
+
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    overflow: visible;
+} */
+
+.satu{
+    width: 800px;
+    height: 500px;
+    background-color: red;
+}
+
+.dua{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.three{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+h1{
+    margin: 0;
+}
+
+section{
+    padding: 50px;
+}
+
+#home{
+    display: inline-block;
+    background-color: #f2f2f2;
+    /* padding: 50px; */
+}
+
+#about{
+    display: inline-block;
+    background-color: #e6e6e6;
+}
+
+#product{
+    display: inline-block;
+    background-color: #f2f2f2;
+}
+
+#services{
+    display: inline-block;
+    background-color: #e6e6e6;
+}
+
+#kontak{
+    display: inline-block;
+    background-color: #f2f2f2;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: lightgrey;
+    color: black;
+    text-align: center;
+    /* margin-top: 20px; */
+}
