@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.atas1{
+    height: 50px;
+    /* height: 5%; */
+    background-color: black;
+    float: none;
+    color: white;
+    padding: 10px;
+}
+
+.atas2{
+    height: 300px;
+    /* height: 40%; */
+    background-color: #c3d8ee;
+    padding: 10px;
+}
+
+.kiri{
+    width: 20%;
+    height: 1000px;
+    /* height: 50%; */
+    background-color: #e1e0e2;
+    float: left;
+    padding: 10px;
+}
+
+.tengah{
+    width: 50%;
+     height: 1000px;
+    /* height: 50%; */
+    background-color: #ffefce;
+    float: left;
+    padding: 10px;
+}
+
+.kanan{
+    width: 30%;
+     height: 1000px;
+    /* height: 50%; */
+    background-color: #e1e0e2;
+    float: left;
+    padding: 10px;
+}
+
+.bawah{
+    height: 50px;
+    /* height: 5%; */
+    background-color: black;
+    clear: both;
+    color: white;
+    padding: 10px;
+}
